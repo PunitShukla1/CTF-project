@@ -1,0 +1,26 @@
+body {
+    background-color: #1a1a1a;
+    color: #fff;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    margin-top: 15%;
+}
+
+.container {
+    background-color: #333;
+    padding: 50px;
+    border-radius: 10px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.5);
+    width: 60%;
+    margin: 0 auto;
+}
+
+.message {
+    font-size: 3em;
+    color: #ff5c5c;
+}
+
+.description {
+    font-size: 1.5em;
+    color: #bbb;
+}
